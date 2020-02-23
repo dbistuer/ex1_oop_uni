@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="acm-jtf">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/llibreries/acm/acm.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/llibreries/acm/acm-javadoc.zip!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/llibreries/acm/acm-src.zip!/src" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
